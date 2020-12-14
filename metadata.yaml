@@ -1,0 +1,25 @@
+_repo: The-Harim-and-the-Purdah-Studies-of-Oriental-Women_63959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, Elizabeth
+    birthdate: 1877
+    deathdate: 1945
+    gutenberg_agent_id: '2180'
+    url: http://www.gutenberg.org/2009/agents/2180
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Asia -- Social life and customs'
+- !lcc 'HQ'
+- !lcsh 'Women -- East Asia'
+- GITenberg
+title: 'The Harim and the Purdah: Studies of Oriental Women'
+url: http://www.gutenberg.org/ebooks/63959
